@@ -1,2 +1,2 @@
-# ks716.github.io
+# ks716
 About myself.
