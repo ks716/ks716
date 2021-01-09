@@ -19,7 +19,7 @@
 
 <p align="center">
   
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sreenivas)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sreenivas)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 
