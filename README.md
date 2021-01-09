@@ -20,7 +20,6 @@
 <p align="center">
   <a href="https://github.com/ks716">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ks716&theme=gotham"/>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ks716&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 </p>
 
