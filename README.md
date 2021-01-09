@@ -1,7 +1,7 @@
 
 <p align="center">
   
-### Hi! I'm [Sreenivas](https://github.com/ks716) 👋
+### <center> Hi! I'm [Sreenivas](https://github.com/ks716) 👋 </center>
 
 :bust_in_silhouette: I'm currently a MS student at [IIIT Hyderabad](https://www.iiit.ac.in) 
 
