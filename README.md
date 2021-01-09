@@ -13,7 +13,7 @@
 
 <p align="center">
 <a href="https://github.com/ks716">
-  <img align="left" height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ks716&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img align="right" height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ks716&layout=compact&langs_count=8&theme=vue&count_private=true"/>
+  <img align="left" height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ks716&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ks716&layout=compact&langs_count=8&theme=vue&count_private=true"/>
 </a>
 </p>
