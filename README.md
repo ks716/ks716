@@ -15,3 +15,8 @@
 </a>
 </p>
 
+### Wakatime Week Stats :alarm_clock:
+
+<p align="center">
+[![Sreenivas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ks716)](https://github.com/anuraghazra/github-readme-stats)
+</p>
