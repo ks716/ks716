@@ -10,9 +10,9 @@
 
 <p align="center">
 <a href="https://github.com/ks716">
-  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ks716&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt=ks716's stats />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ks716&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt=ks716's stats />
   <br>
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ks716&theme=gotham&count_private=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks716&theme=gotham&count_private=true"/>
 </a>
 </p>
 
