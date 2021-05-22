@@ -15,7 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks716&theme=gotham&count_private=true"/>
 </a>
 </p>
-
+<!-- 
 ### Wakatime Week Stats :alarm_clock:
 
 <p align="center">
@@ -23,4 +23,4 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ks716&theme=gotham"/>
 </a>
 </p>
-
+ -->
