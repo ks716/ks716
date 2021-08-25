@@ -1,6 +1,6 @@
 ###  Hi! I'm [Sreenivas](https://github.com/ks716) 👋 
 
-:bust_in_silhouette: I'm currently a MS student at [IIIT Hyderabad](https://www.iiit.ac.in) 
+:bust_in_silhouette: I'm currently a Masters student at [IIIT Hyderabad](https://www.iiit.ac.in) 
 
 
 [![Linkedin: Sreenivas](https://img.shields.io/badge/Linkedin-Sreenivas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kanaparthy-sreenivas-544944111/)](https://www.linkedin.com/in/kanaparthy-sreenivas-544944111/)
