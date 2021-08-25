@@ -3,7 +3,7 @@
 :bust_in_silhouette: I'm currently a MS student at [IIIT Hyderabad](https://www.iiit.ac.in) 
 
 
-[![Linkedin: Sreenivas](https://img.shields.io/badge/LinkedIn-Sreenivas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kanaparthy-sreenivas-544944111/)](https://www.linkedin.com/in/kanaparthy-sreenivas-544944111/)
+[![Linkedin: Sreenivas](https://img.shields.io/badge/Sreenivas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kanaparthy-sreenivas-544944111/)](https://www.linkedin.com/in/kanaparthy-sreenivas-544944111/)
 
 
 ### Github Stats :point_down:
