@@ -5,8 +5,9 @@
 
 [![Linkedin: Sreenivas](https://img.shields.io/badge/Linkedin-Sreenivas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kanaparthy-sreenivas-544944111/)](https://www.linkedin.com/in/kanaparthy-sreenivas-544944111/)
 
-
+<center>
 ### Github Stats :point_down:
+</center>
 
 <p align="center">
 <a href="https://github.com/ks716">
